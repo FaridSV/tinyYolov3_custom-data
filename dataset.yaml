@@ -1,0 +1,5 @@
+train: C:/Users/Asus/yolov3/Dataset/images/train
+val: C:/Users/Asus/yolov3/Dataset/images/val
+
+nc: 2  # Number of classes (adjust this if you have more classes)
+names: ['cuboid', 'cylinder']  # List your class names here
